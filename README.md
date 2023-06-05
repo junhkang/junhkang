@@ -5,3 +5,4 @@
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=junhkang&show_icons=true&include_all_commits=true)](https://github.com/junhkang/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junhkang&layout=compact)](https://github.com/junhkang/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/9e8a1c52-08ff-4acb-8ca2-f359b804ee51.svg)](https://wakatime.com/@9e8a1c52-08ff-4acb-8ca2-f359b804ee51)
