@@ -1,8 +1,9 @@
-## Jun Kang
-[![Gmail Badge](https://img.shields.io/badge/-junhkang91@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:junhkang91@gmail.com)](mailto:junhkang91@gmail.com) 
-<!--[![Github Badge](https://img.shields.io/badge/-junhkang-grey?style=flat&logo=github&logoColor=white&link=https://github.com/junhkang/)](https://www.github.com/junhkang/) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjunhkang&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)-->
-[![wakatime](https://wakatime.com/badge/user/9e8a1c52-08ff-4acb-8ca2-f359b804ee51.svg)](https://wakatime.com/@9e8a1c52-08ff-4acb-8ca2-f359b804ee51)
+# Jun Kang
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=junhkang alt=junhkang /> </p>
-<!-- [![junhkang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=junhkang)](https://github.com/anuraghazra/github-readme-stats) -->
+🔭 [산업의 역군](https://www.sankun.com)에서 백엔드 개발과 DevOps 전략을 이끌고 있습니다. 새로운 기술을 탐색하고 개발팀 문화를 강화하는 데 큰 열정을 가지고 있습니다.
+
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" />
+<!--
+![junhkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhkang&show_icons=true&theme=radical&count_private=true)-->
+
+[<img src="https://img.shields.io/badge/LinkedIn--lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />](https://www.linkedin.com/in/junh-kang/) [<img src="https://img.shields.io/badge/Tistory--lightgrey?style=for-the-badge&logo=blogger&logoColor=white" width="120" />](https://junhkang.tistory.com)
