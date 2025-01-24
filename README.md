@@ -7,3 +7,14 @@
 ![junhkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhkang&show_icons=true&theme=radical&count_private=true)
 
 [<img src="https://img.shields.io/badge/LinkedIn--lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />](https://www.linkedin.com/in/junh-kang/) [<img src="https://img.shields.io/badge/Tistory--lightgrey?style=for-the-badge&logo=blogger&logoColor=white" width="120" />](https://junhkang.tistory.com)
+
+## 📚 강의 및 지식 공유
+
+- **[모두의 연구소] - 연세대 DX코딩캠프 데이터 분석 심화 메인코치**
+  - 데이터 분석 심화 과정 메인 코치
+
+- **[카카오 x 구름] - Deep Dive 백엔드 개발자 특강**
+  - 이슈 트래커, 협업 도구, 생산성 도구 기초
+ 
+- **[순천향대학교] - 초기창업패키지 기술강연**
+  - LLM, 데이터베이스, AWS 관련 기술 강연
