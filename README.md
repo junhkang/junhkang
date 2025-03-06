@@ -1,6 +1,6 @@
 # Jun Kang
 
-🔭 **Leading backend development and DevOps strategies at [Sankun.inc](https://www.sankun.com) in Korea, with a commitment to exploring innovative technologies and strengthening engineering culture.**
+🔭 **Leading Software development, DevOps and AI strategies at [Sankun.inc](https://www.sankun.com) in Korea, with a commitment to exploring innovative technologies and strengthening engineering culture.**
 
 **Technical Stack:**  
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" />
