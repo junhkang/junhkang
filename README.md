@@ -22,6 +22,13 @@
 
 ## Workshops & Knowledge Sharing
 
+- **2025 Build with AI for Everyone – “Taking AI into Production: Beyond Tech Showcases to Business Tools”**  
+  Presented a keynote on evolving AI from demos to real business tooling and operations.  
+  *(GDG Golang Korea, GDGoC Sogang)*
+
+- **Modu Research Institute – “The Power that Moves Data: Practical Data Governance & Engineering”**  
+  Delivered a hands-on lecture linking governance frameworks with real engineering workflows and implementation, using Apache Airflow, AWS Glue, and Amazon Athena.
+
 - **Naver Connect & Modu Research Institute – “Generative AI 2025” Coding Coach**  
   Guided participants through practical AI projects, showcasing real-world applications of generative AI technologies.
   
@@ -39,22 +46,30 @@
 
 <details>
   <summary>🇰🇷 한국어 버전 (Click to Expand)</summary>
-  
+
   **강의 및 지식 공유**
-  
-  - **네이버 커넥트 & 모두의 연구소 – “Generative AI 2025” 코딩코치**  
-    생성형 AI의 실제 적용 사례를 중심으로, 인공지능 프로젝트를 직접 진행하며 교육함.
-  
+
+  - **2025 Build with AI for Everyone – “AI를 현업 서비스에 넣기까지: 기술 쇼케이스를 넘어 비즈니스 도구로”**  
+    데모 단계의 AI를 실제 비즈니스 도구로 확장하는 전략과 운영 사례를 발표.  
+    *(GDG Golang Korea, GDGoC Sogang)*
+
+  - **모두의연구소 – “데이터를 움직이는 힘: 데이터 거버넌스 & 엔지니어링 실전”**  
+    거버넌스 프레임워크를 실제 엔지니어링 워크플로와 연결해 실무 중심으로 강의.  
+    아파치 에어플로우, 글루, 아테나를 활용한 실습 중심 구성.
+
+  - **네이버 커넥트 & 모두의연구소 – “Generative AI 2025” 코딩 코치**  
+    생성형 AI의 실제 적용 사례 중심 프로젝트를 코칭하며 교육.
+
   - **카카오 x 구름 – “Deep Dive 백엔드 개발자” 세미나**  
-    매력적인 개발자 포트폴리오 구성 및 백엔드 개발 모범 사례를 소개함.
-  
-  - **모두의 연구소 – 연세대 DX 코딩캠프 (데이터 분석 심화 과정)**  
-    고급 데이터 분석 과정을 메인 코치로 진행하며, 산업 현장에서 활용되는 다양한 분석 기법과 도구를 교육함.
-  
+    매력적인 포트폴리오 구성과 백엔드 모범 사례를 중심으로 심화 세션 진행.
+
+  - **모두의연구소 – 연세대 DX 코딩캠프 (데이터 분석 심화 과정)**  
+    산업 현장에서 활용되는 분석 기법과 도구를 메인 코치로 지도.
+
   - **카카오 x 구름 – “Deep Dive 백엔드 개발자” 워크숍**  
-    이슈 트래킹, 협업 도구, 생산성 향상 기법 등 팀 효율성을 높이는 내용을 다룸.
-  
+    이슈 트래킹, 협업 도구, 생산성 향상 기법을 통한 팀 효율화 주제 발표.
+
   - **순천향대학교 – 초기창업패키지 기술강연**  
-    LLM, 데이터베이스 최적화, AWS 활용 등을 주제로 강연하여 스타트업의 확장 가능성을 지원함.
-  
+    LLM, DB 최적화, AWS 활용 등 스타트업 확장에 필요한 핵심 주제 강연.
 </details>
+
