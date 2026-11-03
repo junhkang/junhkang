@@ -7,7 +7,7 @@
 
 ![junhkang's GitHub stats](https://github-readme-stats.vercel.app/api?username=junhkang&show_icons=true&theme=radical&count_private=true)
 
-[<img src="https://img.shields.io/badge/LinkedIn--lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />](https://www.linkedin.com/in/junh-kang/) [<img src="https://img.shields.io/badge/Tistory--lightgrey?style=for-the-badge&logo=blogger&logoColor=white" width="120" />](https://junhkang.tistory.com)
+[<img src="https://img.shields.io/badge/LinkedIn--lightgrey?style=for-the-badge&logo=linkedin&logoColor=white" width="120" />](https://www.linkedin.com/in/junh-kang/) [<img src="https://img.shields.io/badge/Blog--lightgrey?style=for-the-badge&logo=hugo&logoColor=white" width="120" />](https://junhkang.com)
 
 ---
 ## Technical Skills
